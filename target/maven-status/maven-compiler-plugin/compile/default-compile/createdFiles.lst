@@ -1,0 +1,10 @@
+edu\cesur\extraordinaria\controller\LoginController.class
+edu\cesur\extraordinaria\service\UserService.class
+edu\cesur\extraordinaria\utils\DatabaseConnection.class
+edu\cesur\extraordinaria\dao\UserDAOImpl.class
+edu\cesur\extraordinaria\controller\UserViewController.class
+edu\cesur\extraordinaria\controller\RegisterViewController.class
+edu\cesur\extraordinaria\model\User.class
+edu\cesur\extraordinaria\app\App.class
+edu\cesur\extraordinaria\exceptions\InvalidCredentialsException.class
+edu\cesur\extraordinaria\dao\UserDAO.class
